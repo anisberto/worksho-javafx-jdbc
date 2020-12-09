@@ -1,4 +1,3 @@
-# WorkShop JavaFX JDBC.
 </h1>
     <h2 align="center">
       Estudo JavaFX - MySQL
@@ -13,4 +12,5 @@ Sistema de Gerenciamento de Cadastro de vendedores e produtos.
   </a>
 </p>
 <br>
-Programa criado para estudo da tecnologica Java aplicando JavaFX e JDBC.
+🎓 Programa criado para estudo da tecnologica Java aplicando JavaFX e JDBC.
+Sistema construido em Java 11 LTS JavaFX e MySQL, Construção de Tela por meio do Scene Builder e IDE Eclipse. 
